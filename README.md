@@ -1,5 +1,5 @@
 <h2> Hi there, Christian here...! 👋</h2>
-<img align='right' src="https://cdn.dribbble.com/users/568549/screenshots/2784451/leeuw_dribbble.gif" width="250">
+<img align='right' src="https://cdn.dribbble.com/users/568549/screenshots/2784451/leeuw_dribbble.gif" width="200">
 <p><em>I am a <strong>Systems Engineer</strong> really passionate about digital product experiences with new technologies... </em></p>
 <h4>Enjoy your stay 👯👯👯 ...</h4>
 
