@@ -1,4 +1,4 @@
-### Hola!!! bienvenid@s a mi perfil de Github... Enjoy your visit... 👯👯👯
+### Hola!!! bienvenid@s a mi perfil de Github... Enjoy your stay... 👯👯👯
 
 <!--
 **christianjtr/christianjtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
