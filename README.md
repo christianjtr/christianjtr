@@ -2,7 +2,8 @@
   <img align="center" width="200" src="https://media4.giphy.com/media/SQHaqJRI79LtLPTWpe/giphy.gif?cid=790b76115e0c93c8c9160c4124a400f70d30ee03e9aafd08&rid=giphy.gif&ct=g" width="200" alt="thelegendofzelda-carrotcake-link-zelda">
   <h3 align="center"> Hola, Soy Christian...! 👋</h3>
 </p>
-<p align="center">Soy <strong>Ingeniero de Sistemas</strong> apasionado por los productos y experiencias digitales con nuevas tecnologías...</p>
+<p align="center">Soy <strong>Ingeniero de Sistemas</strong> de profesión, apasionado por los productos y experiencias digitales con nuevas tecnologías...</p>
+<p align="center">🗣️ <strong>System Engineer</strong>, I am really pastionate about digital products and experiences based on new technologies...</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/christianjtr" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christianjtr" height="28px" width="28px" />
