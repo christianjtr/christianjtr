@@ -3,7 +3,7 @@
   <h3 align="center"> Hola, Soy Christian...! 👋</h3>
 </p>
 <p align="center">Soy <strong>Ingeniero de Sistemas</strong> de profesión, apasionado por los productos y experiencias digitales con nuevas tecnologías...</p>
-<p align="center">🗣️ <strong>System Engineer</strong>, I am really pastionate about digital products and experiences based on new technologies...</p>
+<p align="center">🗣️ <strong>System Engineer</strong>, I am really passionate about digital products and experiences based on new technologies...</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/christianjtr" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christianjtr" height="28px" width="28px" />
