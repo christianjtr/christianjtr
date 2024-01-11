@@ -18,8 +18,6 @@ Here is my humble Github profile, filled in with some <code>proof of concepts</c
 </a>
 <h4>Technologies I can play with 🔮</h4>
 <code>Web and JS's ecosystem</code>
-<br/>
-<br/>
 <img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/ganon.gif" alt="the-legend-of-zelda-ganon">
 <br clear="left"/>
 <table>
@@ -117,6 +115,10 @@ Here is my humble Github profile, filled in with some <code>proof of concepts</c
     <td align="center">
       <img width="25" src="https://simpleicons.org/icons/powerbi.svg" alt="powerbi.svg">
       <br>PowerBI
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/tableau.svg" alt="tableau.svg">
+      <br>Tableau
     </td>
     <td align="center">
       <img width="25" src="https://simpleicons.org/icons/qlik.svg" alt="qlik.svg">
