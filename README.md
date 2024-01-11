@@ -11,7 +11,7 @@ As a <strong>System Engineer</strong>, I am passionate about digital products an
   <li>Agile mindset 💅</li>
 </ul>
 <br/>
-Here is my humble Github profile, filled in with some proof of concepts and every other assessment I was encouraged to take (You know, the typical "evaluation" process).
+Here is my humble Github profile, filled in with some <code>proof of concepts</code> and every other <code>assessment</code> I was encouraged to take.
 <h4>Let's connect 👯</h4>
 <a href="https://www.linkedin.com/in/christianjtr/" target="_blank" title="@christianjtr">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="100"/>
