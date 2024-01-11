@@ -20,6 +20,8 @@ Here is my humble Github profile, filled in with some <code>proof of concepts</c
 <code>Web and JS's ecosystem</code>
 <br/>
 <br/>
+<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/ganon.gif" alt="the-legend-of-zelda-ganon">
+<br clear="left"/>
 <table>
   <tr>
     <td align="center">
@@ -126,6 +128,7 @@ Here is my humble Github profile, filled in with some <code>proof of concepts</c
     </td>
   </tr>
 </table>
+<h6>© Many thanks to the creators of these GIF images :) ⚔️ 🛡️</h6>
 
 
 
