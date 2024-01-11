@@ -1,26 +1,132 @@
-<p align="center" width="300">
-  <img align="center" width="200" src="https://media4.giphy.com/media/SQHaqJRI79LtLPTWpe/giphy.gif?cid=790b76115e0c93c8c9160c4124a400f70d30ee03e9aafd08&rid=giphy.gif&ct=g" width="200" alt="thelegendofzelda-carrotcake-link-zelda">
-  <h3 align="center"> Hola, Soy Christian...! 👋</h3>
-</p>
-<p align="center">Soy <strong>Ingeniero de Sistemas</strong> de profesión, apasionado por los productos y experiencias digitales con nuevas tecnologías...</p>
-<p align="center">🗣️ <strong>System Engineer</strong>, I am really passionate about digital products and experiences based on new technologies...</p>
-<p align="center">
-   <a href="https://www.linkedin.com/in/christianjtr" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christianjtr" height="28px" width="28px" />
-  </a>
-</p>
+<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="350" alt="the-legend-of-zelda-carrotcake-link-zelda">
+<br clear="left"/>
+<h3>Hola, soy Christian! 👋</h3>
+As a <strong>System Engineer</strong>, I am passionate about digital products and experiences based on new technologies. I would define myself as a generalist professional interested in several areas of knowledge such as:
+<br/>
+<br/>
+<ul>
+  <li>Product 💡</li>
+  <li>Data 📊</li>
+  <li>Engineering 👾</li>
+  <li>Agile mindset 💅</li>
+</ul>
+<br/>
+Here is my humble Github profile, filled in with some proof of concepts and every other assessment I was encouraged to take (You know, the typical "evaluation" process).
+<h4>Let's connect 👯</h4>
+<a href="https://www.linkedin.com/in/christianjtr/" target="_blank" title="@christianjtr">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="100"/>
+</a>
+<h4>Technologies I can play with 🔮</h4>
+<code>Web and JS's ecosystem</code>
+<br/>
+<br/>
+<table>
+  <tr>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/javascript.svg" alt="javascript.svg">
+      <br>Javascript
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodedotjs.svg" />
+      <br>NodeJS
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/typescript.svg" alt="typescript.svg">
+      <br>TypeScript
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/react.svg" alt="react.svg">
+      <br>ReactJS
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/vuedotjs.svg" alt="vuedotjs.svg">
+      <br>VueJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/jquery.svg" alt="jquery.svg">
+      <br>jQuery
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/reactquery.svg" alt="reactquery.svg">
+      <br>ReactQuery
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/graphql.svg" alt="graphql.svg">
+      <br>GraphQL
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/webpack.svg" alt="webpack.svg">
+      <br>Webpack
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/vite.svg" alt="vite.svg">
+      <br>Vite
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/testinglibrary.svg" alt="testinglibrary.svg">
+      <br>React Testing
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/cypress.svg" alt="cypress.svg">
+      <br>Cypress
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/html5.svg" alt="html5.svg">
+      <br>HTML5
+    </td>
+  </tr>
+</table>
+<code>Databases and server-side</code>
+<br/>
+<br/>
+<table>
+  <tr>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="microsoftsqlserver.svg">
+      <br>SQL Server
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/mysql.svg" alt="mysql.svg">
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql.svg" />
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb.svg">
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/python.svg" alt="python.svg">
+      <br>Python
+    </td>
+  </tr>
+</table>
+<code>Business intelligence and data analytics</code>
+<br/>
+<br/>
+<table>
+  <tr>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/powerbi.svg" alt="powerbi.svg">
+      <br>PowerBI
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/qlik.svg" alt="qlik.svg">
+      <br>Qlik
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/r.svg" alt="r.svg" />
+      <br>R
+    </td>
+  </tr>
+</table>
 
-<!--
-**christianjtr/christianjtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
