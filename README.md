@@ -1,22 +1,28 @@
 <img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="350" alt="the-legend-of-zelda-carrotcake-link-zelda">
 <br clear="left"/>
-<h3>Hola, soy Christian! 👋</h3>
-As a <strong>System Engineer</strong>, I am passionate about digital products and experiences based on new technologies. I would define myself as a generalist professional interested in several areas of knowledge such as:
+<h2>Hola, soy Christian! 👋</h2>
+As a <strong>System Engineer</strong>, I am passionate about digital products and experiences based on new technologies. 
 <br/>
 <br/>
-<ul>
-  <li>Product 💡</li>
-  <li>Data 📊</li>
-  <li>Engineering 👾</li>
-  <li>Agile mindset 💅</li>
-</ul>
+I would define myself as a `generalist professional` interested in several areas of knowledge such as:
 <br/>
-Here is my humble Github profile, filled in with some <code>proof of concepts</code> and every other <code>assessment</code> I was encouraged to take.
-<h4>Let's connect 👯</h4>
+<br/>
+
+> [!IMPORTANT]  
+> <ul>
+>  <li>Product 💡</li>
+>  <li>Data 📊</li>
+>  <li>Engineering 👾</li>
+>  <li>Agile mindset 💅</li>
+> </ul>
+
+> This humble profile contains some <strong>proof of concepts</strong> and every other <strong>assessment</strong> I was encouraged to take.
+
+<h3>Let's connect 👯</h3>
 <a href="https://www.linkedin.com/in/christianjtr/" target="_blank" title="@christianjtr">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="100"/>
 </a>
-<h4>Technologies I can play with 🔮</h4>
+<h3>Technologies I can play with 🔮</h3>
 <code>Web and JS's ecosystem</code>
 <img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/ganon.gif" alt="the-legend-of-zelda-ganon">
 <br clear="left"/>
@@ -130,7 +136,7 @@ Here is my humble Github profile, filled in with some <code>proof of concepts</c
     </td>
   </tr>
 </table>
-<h6>© Many thanks to the creators of these GIF images :) ⚔️ 🛡️</h6>
+<h6>© Many thanks to the creators of these GIF images 😄 ⚔️ 🛡️</h6>
 
 
 
