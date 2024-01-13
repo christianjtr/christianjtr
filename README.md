@@ -114,8 +114,8 @@ I would define myself as a `generalist professional` interested in several areas
   </tr>
 </table>
 <code>Business intelligence and data analytics</code>
-<br/>
-<br/>
+<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/ganondorf.gif" width="180" alt="the-legend-of-zelda-ganondorf">
+<br clear="left"/>
 <table>
   <tr>
     <td align="center">
