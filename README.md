@@ -1,6 +1,6 @@
-<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="350" alt="the-legend-of-zelda-carrotcake-link-zelda">
+<h1>Hola, soy Christian! 👋</h1>
+<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="300" alt="the-legend-of-zelda-carrotcake-link-zelda">
 <br clear="left"/>
-<h2>Hola, soy Christian! 👋</h2>
 As a <strong>System Engineer</strong>, I am passionate about digital products and experiences based on new technologies. 
 <br/>
 <br/>
