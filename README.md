@@ -23,15 +23,11 @@ I would define myself as a <code>generalist professional</code> interested in se
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="100"/>
 </a>
 <h3>Technologies I can play with 🔮</h3>
-<code>Web and JS's ecosystem</code>
-<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/ganon.gif" alt="the-legend-of-zelda-ganon">
-<br clear="left"/>
+<span>Web and JavaScript ecosystem</span>
+<br/>
+<br/>
 <table>
   <tr>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/javascript.svg" alt="javascript.svg">
-      <br>Javascript
-    </td>
     <td align="center">
       <img width="25" src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodedotjs.svg" />
       <br>NodeJS
@@ -48,11 +44,13 @@ I would define myself as a <code>generalist professional</code> interested in se
       <img width="25" src="https://simpleicons.org/icons/vuedotjs.svg" alt="vuedotjs.svg">
       <br>VueJS
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/jquery.svg" alt="jquery.svg">
-      <br>jQuery
+      <img width="25" src="https://simpleicons.org/icons/svelte.svg" alt="svelte.svg">
+      <br>Svelte
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/astro.svg" alt="astro.svg">
+      <br>Astro
     </td>
     <td align="center">
       <img width="25" src="https://simpleicons.org/icons/reactquery.svg" alt="reactquery.svg">
@@ -70,8 +68,6 @@ I would define myself as a <code>generalist professional</code> interested in se
       <img width="25" src="https://simpleicons.org/icons/vite.svg" alt="vite.svg">
       <br>Vite
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img width="25" src="https://simpleicons.org/icons/testinglibrary.svg" alt="testinglibrary.svg">
       <br>React Testing
@@ -80,20 +76,20 @@ I would define myself as a <code>generalist professional</code> interested in se
       <img width="25" src="https://simpleicons.org/icons/cypress.svg" alt="cypress.svg">
       <br>Cypress
     </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/html5.svg" alt="html5.svg">
-      <br>HTML5
-    </td>
   </tr>
 </table>
-<code>Databases and server-side</code>
+Server-side, DBMS's, and data analytics
 <br/>
 <br/>
 <table>
   <tr>
     <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="microsoftsqlserver.svg">
-      <br>SQL Server
+      <img width="25" src="https://simpleicons.org/icons/python.svg" alt="python.svg">
+      <br>Python
+    </td>
+    <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/r.svg" alt="r.svg" />
+      <br>R
     </td>
     <td align="center">
       <img width="25" src="https://simpleicons.org/icons/mysql.svg" alt="mysql.svg">
@@ -108,35 +104,16 @@ I would define myself as a <code>generalist professional</code> interested in se
       <br>MongoDB
     </td>
     <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/python.svg" alt="python.svg">
-      <br>Python
-    </td>
-  </tr>
-</table>
-<code>Business intelligence and data analytics</code>
-<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/ganondorf.gif" width="180" alt="the-legend-of-zelda-ganondorf">
-<br clear="left"/>
-<table>
-  <tr>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/powerbi.svg" alt="powerbi.svg">
-      <br>PowerBI
+      <img width="25" src="https://simpleicons.org/icons/redis.svg" alt="redis.svg">
+      <br>Redis
     </td>
     <td align="center">
       <img width="25" src="https://simpleicons.org/icons/tableau.svg" alt="tableau.svg">
       <br>Tableau
     </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/qlik.svg" alt="qlik.svg">
-      <br>Qlik
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/r.svg" alt="r.svg" />
-      <br>R
-    </td>
   </tr>
 </table>
-<h6>© Many thanks to the creators of these GIF images 😄 ⚔️ 🛡️</h6>
+<h6>© Many thanks to the creators of this GIF image 😄 ⚔️ 🛡️</h6>
 
 
 
