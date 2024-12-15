@@ -56,7 +56,9 @@ I would define myself as a <code>generalist professional</code> interested in se
       <img width="25" src="https://simpleicons.org/icons/reactquery.svg" alt="reactquery.svg">
       <br>ReactQuery
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+  <td align="center">
       <img width="25" src="https://simpleicons.org/icons/graphql.svg" alt="graphql.svg">
       <br>GraphQL
     </td>
