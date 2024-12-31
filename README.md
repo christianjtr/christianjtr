@@ -80,7 +80,7 @@ I would define myself as a <code>generalist professional</code> interested in se
     </td>
   </tr>
 </table>
-Server-side, DBMS's, and data analytics
+Server-side and DBMS's
 <br/>
 <br/>
 <table>
@@ -109,12 +109,18 @@ Server-side, DBMS's, and data analytics
       <img width="25" src="https://simpleicons.org/icons/redis.svg" alt="redis.svg">
       <br>Redis
     </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/tableau.svg" alt="tableau.svg">
-      <br>Tableau
-    </td>
   </tr>
 </table>
+📊 Data modeling, ETL, and analytics tools
+<br/>
+<br/>
+- SQL Server Integration Services
+<br/>
+- PowerBI
+<br/>
+- Tableau
+
+
 <h6>© Many thanks to the creators of this GIF image 😄 ⚔️ 🛡️</h6>
 
 
