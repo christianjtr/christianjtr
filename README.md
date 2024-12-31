@@ -114,13 +114,11 @@ Server-side and DBMS's
 📊 Data modeling, ETL, and analytics tools
 <br/>
 <br/>
-- SQL Server Integration Services
-<br/>
-- PowerBI
-<br/>
-- Tableau
-
-
+<ul>
+<li>SQL Server Integration Services</li>
+<li>PowerBI</li>
+<li>Tableau</li>
+</ul>
 <h6>© Many thanks to the creators of this GIF image 😄 ⚔️ 🛡️</h6>
 
 
