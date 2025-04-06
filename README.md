@@ -86,7 +86,7 @@ Server-side and DBMS's
 <table>
   <tr>
     <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/python.svg" alt="python.svg">
+      <img width="25" src="https://www.svgrepo.com/show/512738/python-127.svg" alt="python.svg">
       <br>Python
     </td>
     <td align="center">
