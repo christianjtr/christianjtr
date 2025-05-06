@@ -33,7 +33,7 @@ I would define myself as a <code>generalist professional</code> interested in se
       <br>NodeJS
     </td>
     <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/typescript.svg" alt="typescript.svg">
+      <img width="25" src="https://www.svgrepo.com/show/342317/typescript.svg" alt="typescript.svg">
       <br>TypeScript
     </td>
     <td align="center">
