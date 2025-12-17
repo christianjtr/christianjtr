@@ -79,6 +79,10 @@ I would define myself as a <code>generalist professional</code> interested in se
       <br>Vite
     </td>
     <td align="center">
+      <img width="25" src="https://simpleicons.org/icons/vitest.svg" alt="vitest.svg">
+      <br>Vitest
+    </td>
+    <td align="center">
       <img width="25" src="https://simpleicons.org/icons/testinglibrary.svg" alt="testinglibrary.svg">
       <br>React Testing
     </td>
