@@ -16,7 +16,7 @@ I would define myself as a <code>generalist professional</code> interested in se
 >  <li>Agile mindset 💅</li>
 > </ul>
 
-> This humble profile contains some <strong>proof of concepts</strong> and every other <strong>assessment</strong> I was encouraged to take.
+> This humble profile contains some <strong>proof of concepts</strong>, some <strong>pet projects</strong>, and every other <strong>assessment</strong> I was encouraged to take.
 
 <h3>Let's connect 👯</h3>
 <a href="https://www.linkedin.com/in/christianjtr/" target="_blank" title="@christianjtr">
