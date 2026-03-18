@@ -26,37 +26,37 @@ This GitHub space serves as my creative laboratory, containing **proof of concep
 **Web & JavaScript Ecosystem**
 <table>
   <tr>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/nodedotjs.svg"/><br/>NodeJS</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/typescript.svg"/><br/>TypeScript</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/react.svg"/><br/>React</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/vuedotjs.svg"/><br/>Vue</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/svelte.svg"/><br/>Svelte</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/astro.svg"/><br/>Astro</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/reactquery.svg"/><br/>TanStack</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/storybook.svg"/><br/>Storybook</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/nodedotjs.svg" style="filter: brightness(0) invert(1);"/><br/>NodeJS</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/typescript.svg" style="filter: brightness(0) invert(1);"/><br/>TypeScript</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/react.svg" style="filter: brightness(0) invert(1);"/><br/>React</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/vuedotjs.svg" style="filter: brightness(0) invert(1);"/><br/>Vue</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/svelte.svg" style="filter: brightness(0) invert(1);"/><br/>Svelte</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/astro.svg" style="filter: brightness(0) invert(1);"/><br/>Astro</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/reactquery.svg" style="filter: brightness(0) invert(1);"/><br/>TanStack</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/storybook.svg" style="filter: brightness(0) invert(1);"/><br/>Storybook</td>
   </tr>
   <tr>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/zod.svg"/><br/>Zod</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/graphql.svg"/><br/>GraphQL</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/webpack.svg"/><br/>Webpack</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/vite.svg"/><br/>Vite</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/vitest.svg"/><br/>Vitest</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/testinglibrary.svg"/><br/>TestingLib</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/jest.svg"/><br/>Jest</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/cypress.svg"/><br/>Cypress</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/zod.svg" style="filter: brightness(0) invert(1);"/><br/>Zod</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/graphql.svg" style="filter: brightness(0) invert(1);"/><br/>GraphQL</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/webpack.svg" style="filter: brightness(0) invert(1);"/><br/>Webpack</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/vite.svg" style="filter: brightness(0) invert(1);"/><br/>Vite</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/vitest.svg" style="filter: brightness(0) invert(1);"/><br/>Vitest</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/testinglibrary.svg" style="filter: brightness(0) invert(1);"/><br/>TestingLib</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/jest.svg" style="filter: brightness(0) invert(1);"/><br/>Jest</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/cypress.svg" style="filter: brightness(0) invert(1);"/><br/>Cypress</td>
   </tr>
 </table>
 
 **Backend & Databases**
 <table>
   <tr>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/python.svg"/><br/>Python</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/go.svg"/><br/>Go</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/r.svg"/><br/>R</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/mysql.svg"/><br/>MySQL</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/postgresql.svg"/><br/>PostgreSQL</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/mongodb.svg"/><br/>MongoDB</td>
-    <td align="center"><img width="25" src="https://simpleicons.org/icons/redis.svg"/><br/>Redis</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/python.svg" style="filter: brightness(0) invert(1);"/><br/>Python</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/go.svg" style="filter: brightness(0) invert(1);"/><br/>Go</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/r.svg" style="filter: brightness(0) invert(1);"/><br/>R</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/mysql.svg" style="filter: brightness(0) invert(1);"/><br/>MySQL</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/postgresql.svg" style="filter: brightness(0) invert(1);"/><br/>PostgreSQL</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/mongodb.svg" style="filter: brightness(0) invert(1);"/><br/>MongoDB</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/redis.svg" style="filter: brightness(0) invert(1);"/><br/>Redis</td>
   </tr>
 </table>
 
