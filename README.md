@@ -1,142 +1,70 @@
-<h1>Hola, soy Christian! 👋</h1>
-<img  align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="300" alt="the-legend-of-zelda-carrotcake-link-zelda">
-<br clear="left"/>
-As a <strong>Systems Engineer</strong>, I am passionate about digital products and experiences based on new technologies. 
-<br/>
-<br/>
-I would define myself as a <code>generalist professional</code> interested in several areas of knowledge such as:
-<br/>
-<br/>
+# Hola, soy Christian! 👋
 
-> [!IMPORTANT]  
-> <ul>
->  <li>Product 💡</li>
->  <li>Data 📊</li>
->  <li>Engineering 👾</li>
->  <li>Agile mindset 💅</li>
-> </ul>
+<img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="300" alt="the-legend-of-zelda-link">
 
-> This humble GitHub space contains some <strong>proof of concepts</strong>, several <strong>pet projects</strong> intended to hone skills and technologies, and every other <strong>assessment</strong> I was encouraged to take.
+As a **Systems Engineer**, I am passionate about crafting digital products and experiences powered by emerging technologies. 
 
-<h3>Let's connect 👯</h3>
-<a href="https://www.linkedin.com/in/christianjtr/" target="_blank" title="@christianjtr">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="100"/>
+I define myself as a `generalist professional` with a deep interest in:
+
+> [!IMPORTANT]
+> - **Product Strategy** 💡
+> - **Data Science & Analytics** 📊
+> - **Software Engineering** 👾
+> - **Agile Methodologies** 💅
+
+This GitHub space serves as my creative laboratory, containing **proof of concepts**, **pet projects** built to master new skills, and various **technical assessments** I've completed.
+
+---
+
+### Let's connect 👯
+<a href="https://www.linkedin.com/in/christianjtr/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<h3>Technologies I can play with 🔮</h3>
-<span>Web and JavaScript ecosystem</span>
-<br/>
-<br/>
+
+### Technologies I am capable of playing with 🔮
+
+**Web & JavaScript Ecosystem**
 <table>
   <tr>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodedotjs.svg" />
-      <br>NodeJS
-    </td>
-    <td align="center">
-      <img width="25" src="https://www.svgrepo.com/show/342317/typescript.svg" alt="typescript.svg">
-      <br>TypeScript
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/react.svg" alt="react.svg">
-      <br>ReactJS
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/vuedotjs.svg" alt="vuedotjs.svg">
-      <br>VueJS
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/svelte.svg" alt="svelte.svg">
-      <br>Svelte
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/astro.svg" alt="astro.svg">
-      <br>Astro
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/reactquery.svg" alt="reactquery.svg">
-      <br>ReactQuery
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/storybook.svg" alt="storybook.svg">
-      <br>Storybook
-    </td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/nodedotjs.svg"/><br/>NodeJS</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/typescript.svg"/><br/>TypeScript</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/react.svg"/><br/>React</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/vuedotjs.svg"/><br/>Vue</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/svelte.svg"/><br/>Svelte</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/astro.svg"/><br/>Astro</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/reactquery.svg"/><br/>TanStack</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/storybook.svg"/><br/>Storybook</td>
   </tr>
   <tr>
-  <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/zod.svg" alt="zod.svg">
-      <br>Zod
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/graphql.svg" alt="graphql.svg">
-      <br>GraphQL
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/webpack.svg" alt="webpack.svg">
-      <br>Webpack
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/vite.svg" alt="vite.svg">
-      <br>Vite
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/vitest.svg" alt="vitest.svg">
-      <br>Vitest
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/testinglibrary.svg" alt="testinglibrary.svg">
-      <br>React Testing
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/jest.svg" alt="jest.svg">
-      <br>Jest
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/cypress.svg" alt="cypress.svg">
-      <br>Cypress
-    </td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/zod.svg"/><br/>Zod</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/graphql.svg"/><br/>GraphQL</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/webpack.svg"/><br/>Webpack</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/vite.svg"/><br/>Vite</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/vitest.svg"/><br/>Vitest</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/testinglibrary.svg"/><br/>TestingLib</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/jest.svg"/><br/>Jest</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/cypress.svg"/><br/>Cypress</td>
   </tr>
 </table>
-Server-side and DBMS's
-<br/>
-<br/>
+
+**Backend & Databases**
 <table>
   <tr>
-    <td align="center">
-      <img width="25" src="https://www.svgrepo.com/show/512738/python-127.svg" alt="python.svg">
-      <br>Python
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/r.svg" alt="r.svg" />
-      <br>R
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/mysql.svg" alt="mysql.svg">
-      <br>MySQL
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql.svg" />
-      <br>PostgreSQL
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb.svg">
-      <br>MongoDB
-    </td>
-    <td align="center">
-      <img width="25" src="https://simpleicons.org/icons/redis.svg" alt="redis.svg">
-      <br>Redis
-    </td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/python.svg"/><br/>Python</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/go.svg"/><br/>Go</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/r.svg"/><br/>R</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/mysql.svg"/><br/>MySQL</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/postgresql.svg"/><br/>PostgreSQL</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/mongodb.svg"/><br/>MongoDB</td>
+    <td align="center"><img width="25" src="https://simpleicons.org/icons/redis.svg"/><br/>Redis</td>
   </tr>
 </table>
-📊 Data modeling, ETL, and analytics tools
-<br/>
-<br/>
-<ul>
-<li>SQL Server Integration Services</li>
-<li>PowerBI</li>
-<li>Tableau</li>
-</ul>
-<h6>© Many thanks to the creators of this GIF image 😄 ⚔️ 🛡️</h6>
 
+**Data Modeling & BI**
+- 🛠️ SQL Server Integration Services (SSIS)
+- 📊 PowerBI & Tableau
 
-
-
+---
+<p align="center">
+  <h6>© Many thanks to the creators of the Link GIF image 😄 ⚔️ 🛡️</h6>
+</p>
