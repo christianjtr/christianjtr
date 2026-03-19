@@ -29,7 +29,7 @@ This GitHub space serves as my creative laboratory, containing **proof of concep
 
 #### 🌐 Web & JavaScript Ecosystem
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
-<br/><sub>*Including: Zod, React TanStack, Playwright, StoryBook*</sub>
+<br/><sub>*Including: Zustand, Zod, React TanStack, Playwright, StoryBook*</sub>
 
 #### ⚙️ Backend & Databases
 [![My Skills](https://skillicons.dev/icons?i=python,go,r,sqlite,mysql,postgres,prisma,nestjs,mongodb,redis&perline=10)](https://skillicons.dev)
