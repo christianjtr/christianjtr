@@ -20,11 +20,6 @@ This GitHub space serves as my creative laboratory, containing **proof of concep
 
 ---
 
-### Let's connect 👯
-<a href="https://www.linkedin.com/in/christianjtr/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
 ### Technologies I am capable of playing with 🔮
 
 #### 🌐 Web & JavaScript Ecosystem
