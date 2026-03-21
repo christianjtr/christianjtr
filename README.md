@@ -29,15 +29,12 @@ This GitHub space serves as my creative laboratory, containing **proof of concep
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
 <br/><sub>*Including: Zustand, Zod, React TanStack, Playwright, StoryBook*</sub>
 
-<br/>
-
 #### ⚙️ Backend & Databases
 > I usually work with JavaScript-based technologies. I am currently mastering Python for data engineering and AI purposes, and I am also interested in GoLang.
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,sqlite,mysql,postgres,prisma,nestjs,mongodb,redis&perline=10)](https://skillicons.dev)
 <br/><sub>*Including: ORMs (e.g.: Drizzle, Sequelize)*</sub>
-<br/>
 <br/>
 
 #### 🏗️ Data Modeling, ETL & Analytics
