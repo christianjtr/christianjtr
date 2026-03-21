@@ -6,7 +6,7 @@
   <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="300" alt="the-legend-of-zelda-link">
 </picture>
 
-As a **Systems Engineer**, I am passionate about crafting digital products and experiences powered by emerging technologies. 
+As a **Product-focused Systems Engineer**, I am passionate about crafting digital products and experiences powered by emerging technologies. 
 
 I define myself as a `generalist professional` with a deep interest in:
 
