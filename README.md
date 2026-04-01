@@ -8,7 +8,7 @@
 
 As a **Product-focused Systems Engineer**, I am passionate about crafting digital products and experiences powered by emerging technologies. 
 
-I define myself as a `generalist professional` with a deep interest in:
+I define myself as a `multidisciplinary Product Engineer` with expertise and a deep interest in:
 
 > [!IMPORTANT]
 > - **Product Strategy** 💡
