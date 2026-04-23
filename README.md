@@ -29,17 +29,22 @@ This GitHub space serves as my creative laboratory, containing **proof of concep
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
 <br/><sub>*Including: Zustand, Zod, React TanStack, Playwright, StoryBook*</sub>
 
-#### ⚙️ Backend & Databases
-> I usually work with JavaScript-based technologies. I am currently mastering Python for data engineering and AI purposes, and I am also interested in GoLang.
+#### ⚙️ Server-side Frameworks & Backend Languages
+> Currently mastering Python for data engineering and applied AI mostly.
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,sqlite,mysql,postgres,prisma,nestjs,mongodb,redis&perline=10)](https://skillicons.dev)
-<br/><sub>*Including: ORMs (e.g.: Drizzle, Sequelize)*</sub>
+[![My Skills](https://skillicons.dev/icons?i=python,prisma,nestjs&perline=10)](https://skillicons.dev)
+<br/><sub>*Including: ORMs (e.g.: Drizzle, Sequelize, etc.)*</sub>
 <br/>
 
-#### 🏗️ Data Modeling, ETL & Analytics
-> Concerning data, I have utilised these tools and languages.
-<br/>
+#### 🏗️ Data Modeling, Databases, ETL & Analytics
+> Concerning data, I have utilised these tools, databases, and languages.
+
+##### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=10)](https://skillicons.dev)
+
+##### Other tools
 
 - 🛠️ SQL Server Integration/Analysis Services (SSIS/SSAS)
 - 📊 Power BI, Tableau, and Qlik
