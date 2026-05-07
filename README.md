@@ -12,9 +12,9 @@ I define myself as a `multidisciplinary Product Engineer` with expertise and a d
 
 > [!IMPORTANT]
 > - **Product Strategy** 💡
-> - **Data Science & Analytics** 📊
+> - **Data Analytics & BI** 📊
 > - **Software Engineering** 👾
-> - **Agile Methodologies** 💅
+> - **Agile Mindset & Methodologies** 💅
 
 This GitHub space serves as my creative laboratory, containing **proof of concepts**, **pet projects** built to master new skills, and various **technical assessments** I've completed.
 
