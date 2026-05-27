@@ -30,7 +30,7 @@ This GitHub space serves as my creative laboratory, containing **proof of concep
 <br/><sub>*Including: Zustand, Zod, React TanStack, Playwright, StoryBook*</sub>
 
 #### ⚙️ Server-side Frameworks & Backend Languages
-> Currently mastering Python for data engineering and applied AI mostly.
+> Currently mastering Python for data engineering and applied AI.
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=python,prisma,nestjs&perline=10)](https://skillicons.dev)
