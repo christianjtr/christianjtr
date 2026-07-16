@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/christianjtr/christianjtr/blob/main/link.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/christianjtr/christianjtr/blob/main/link.gif">
-  <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link.gif" width="300" alt="the-legend-of-zelda-link">
+  <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link-eating-cake.gif" width="300" alt="the-legend-of-zelda-link">
 </picture>
 
 As a **Product-focused Systems Engineer**, I am passionate about crafting digital products and experiences powered by emerging technologies. 
