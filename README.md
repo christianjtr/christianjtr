@@ -1,4 +1,4 @@
-# Hola, soy Christian! 👋
+# Hola, soy Christian José! 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/christianjtr/christianjtr/blob/main/link-eating-cake.gif">
@@ -6,30 +6,28 @@
   <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link-eating-cake.gif" width="300" alt="the-legend-of-zelda-link">
 </picture>
 
-As a **Product-focused Systems Engineer**, I am passionate about crafting digital products and experiences powered by emerging technologies. 
+As a **Product-focused Systems Engineer**, I'm passionate about crafting digital products and experiences powered by emerging technologies. 
 
 I define myself as a `multidisciplinary engineer` with expertise and interest in:
 
 > [!IMPORTANT]
-> - **Product Strategy** 💡
-> - **Data Analytics & BI** 📊
 > - **Software Engineering** 👾
+> - **Data Analytics & BI** 📊
+> - **Product Strategy** 💡
 > - **Agile Mindset & Methodologies** 💅
-
-This GitHub space serves as my creative laboratory, containing **proof of concepts**, **pet projects** built to master new skills, and various **technical assessments** I've completed.
 
 ---
 
-### Technologies I am capable of playing with 🔮
+## Technologies I am capable of playing with 🔮
 
-#### 🌐 Web & JavaScript Ecosystem
+### 🌐 Web & JavaScript Ecosystem
 > This is my main focus at the moment.
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
 <br/><sub>*Including: Zustand, Zod, React TanStack, Playwright, StoryBook*</sub>
 
-#### ⚙️ Server-side Frameworks & Backend Languages
+### ⚙️ Server-side Frameworks & Backend Languages
 > Currently mastering Python for data engineering and applied AI.
 <br/>
 
@@ -37,14 +35,14 @@ This GitHub space serves as my creative laboratory, containing **proof of concep
 <br/><sub>*Including: ORMs (e.g.: Drizzle, Sequelize, etc.)*</sub>
 <br/>
 
-#### 🏗️ Data Modeling, Databases, ETL & Analytics
+### 🏗️ Data Modeling, Databases, ETL/ELT & Analytics
 > Concerning data, I have utilised these tools, databases, and languages.
 
-##### Databases
+#### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=10)](https://skillicons.dev)
 
-##### Other tools
+#### Other tools
 
 - 🛠️ SQL Server Integration/Analysis Services (SSIS/SSAS)
 - 📊 Power BI, Tableau, and Qlik
