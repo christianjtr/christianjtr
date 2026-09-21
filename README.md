@@ -26,10 +26,10 @@ Technically speaking, I define myself as a **multidisciplinary practitioner** wi
 <br/><sub>*Including: Zustand, Zod, React TanStack, Playwright, StoryBook*</sub>
 
 ### ⚙️ Server-side Frameworks & Backend Languages
-> Currently mastering Python for data engineering and applied AI.
+> Currently mastering Python for data engineering and applied AI (Also, interested in learning Go).
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,prisma,nestjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,prisma,nestjs&perline=10)](https://skillicons.dev)
 <br/><sub>*Including: ORMs (e.g., Drizzle, Sequelize, etc.)*</sub>
 <br/>
 
