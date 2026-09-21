@@ -6,19 +6,17 @@
   <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link-eating-cake.gif" width="300" alt="the-legend-of-zelda-link">
 </picture>
 
-As a **Product-focused Systems Engineer**, I'm passionate about crafting digital products and experiences powered by emerging technologies. 
+As an Engineer, I'm passionate about crafting digital products and experiences powered by emerging technologies. 
 
-I define myself as a `multidisciplinary engineer` with expertise and interest in:
+Technically speaking, I define myself as a **multidisciplinary practitioner** with expertise in:
 
 > [!IMPORTANT]
 > - **Software Engineering** 👾
 > - **Data Analytics & BI** 📊
-> - **Product Strategy** 💡
-> - **Agile Mindset & Methodologies** 💅
 
 ---
 
-## Technologies I am capable of playing with 🔮
+## Technologies I am capable of working with 🔮
 
 ### 🌐 Web & JavaScript Ecosystem
 > This is my main focus at the moment.
@@ -32,11 +30,11 @@ I define myself as a `multidisciplinary engineer` with expertise and interest in
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=python,prisma,nestjs&perline=10)](https://skillicons.dev)
-<br/><sub>*Including: ORMs (e.g.: Drizzle, Sequelize, etc.)*</sub>
+<br/><sub>*Including: ORMs (e.g., Drizzle, Sequelize, etc.)*</sub>
 <br/>
 
 ### 🏗️ Data Modeling, Databases, ETL/ELT & Analytics
-> Concerning data, I have utilised these tools, databases, and languages.
+> Regarding data, I have utilised these tools, databases, and languages.
 
 #### Databases
 
