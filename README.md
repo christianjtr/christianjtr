@@ -6,47 +6,45 @@
   <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link-eating-cake.gif" width="300" alt="the-legend-of-zelda-link">
 </picture>
 
-As an Engineer, I'm passionate about crafting digital products and experiences powered by emerging technologies. 
+Engineer passionate about building digital products and experiences powered by emerging technologies.
 
-Technically speaking, I define myself as a **multidisciplinary practitioner** with expertise in:
+I work as a **multidisciplinary practitioner** focused on:
 
-> [!IMPORTANT]
-> - **Software Engineering** 👾
-> - **Data Analytics & BI** 📊
+- **Software Engineering** 👾  
+- **Data Analytics & BI** 📊
+
+Currently deep into the modern web stack while expanding into data engineering and applied AI.
 
 ---
 
-## Technologies I am capable of working with 🔮
+## Technologies I work with 🔮
 
 ### 🌐 Web & JavaScript Ecosystem
-> This is my main focus at the moment.
-<br/>
+> My main focus right now.
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
-<br/><sub>*Including: Zustand, Zod, React TanStack, Playwright, StoryBook*</sub>
 
-### ⚙️ Server-side Frameworks & Backend Languages
-> Currently mastering Python for data engineering and applied AI (Also, interested in learning Go).
-<br/>
+<sub>*Also: Zustand, Zod, React TanStack, Playwright, Storybook*</sub>
+
+### ⚙️ Backend & Server-side
+> Currently leveling up Python for data engineering & applied AI (and curious about Go).
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,prisma,nestjs&perline=10)](https://skillicons.dev)
-<br/><sub>*Including: ORMs (e.g., Drizzle, Sequelize, etc.)*</sub>
-<br/>
 
-### 🏗️ Data Modeling, Databases, ETL/ELT & Analytics
-> Regarding data, I have utilised these tools, databases, and languages.
+<sub>*ORMs: Drizzle, Sequelize, etc.*</sub>
 
-#### Databases
+### 🏗️ Data, Databases & Analytics
 
+**Databases**  
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=10)](https://skillicons.dev)
 
-#### Other tools
-
-- 🛠️ SQL Server Integration/Analysis Services (SSIS/SSAS)
-- 📊 Power BI, Tableau, and Qlik
-- R Statistics
+**Other tools**
+- SSIS / SSAS  
+- Power BI, Tableau, Qlik  
+- R
 
 ---
+
 <p align="center">
-  <h6>© Many thanks to the creators of the Link GIF image 😄 ⚔️ 🛡️</h6>
+  <sub>© Thanks to the creators of the Link GIF 😄 ⚔️ 🛡️</sub>
 </p>
