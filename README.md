@@ -13,7 +13,7 @@ I work as a **multidisciplinary practitioner** focused on:
 - **Software Engineering** 👾  
 - **Data Analytics & BI** 📊
 
-Currently deep into the modern web stack while expanding into data engineering and agentic AI.
+🤓 Currently deep into the modern web stack while expanding into data engineering and agentic AI.
 
 ---
 
@@ -27,7 +27,7 @@ Currently deep into the modern web stack while expanding into data engineering a
 <sub>*Also: Zustand, Zod, React TanStack, Playwright, Storybook*</sub>
 
 ### ⚙️ Backend & Server-side
-> Currently leveling up Python for data engineering & applied AI (and curious about Go).
+> Currently leveling up Python for data engineering & agentic AI (and curious about Go).
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,prisma,nestjs&perline=10)](https://skillicons.dev)
 
