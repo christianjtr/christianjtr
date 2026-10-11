@@ -13,7 +13,7 @@ I work as a **multidisciplinary practitioner** focused on:
 - **Software Engineering** 👾  
 - **Data Analytics & BI** 📊
 
-Currently deep into the modern web stack while expanding into data engineering and applied AI.
+Currently deep into the modern web stack while expanding into data engineering and agentic AI.
 
 ---
 
