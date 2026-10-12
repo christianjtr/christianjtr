@@ -15,7 +15,7 @@ I work as a **multidisciplinary practitioner** focused on:
 
 🤓 Currently deep into the modern web stack while expanding into data engineering and agentic AI.
 
----
+<br />
 
 ## Technologies I work with 🔮
 
