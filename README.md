@@ -35,13 +35,14 @@ I work as a **multidisciplinary practitioner** focused on:
 
 ### 🏗️ Data, Databases & Analytics
 
-**Databases**  
+**Databases**
+
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=10)](https://skillicons.dev)
 
 **Other tools**
 - SSIS / SSAS  
 - Power BI, Tableau, Qlik  
-- R
+- R Statistics
 
 ---
 
