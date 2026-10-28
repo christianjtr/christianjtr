@@ -6,14 +6,21 @@
   <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link-eating-cake.gif" width="300" alt="the-legend-of-zelda-link">
 </picture>
 
-Engineer passionate about building digital products and experiences powered by emerging technologies.
+Engineer passionate about building digital products and experiences powered by emerging technologies, connecting business needs with reliable software. 
+
+I'm currently exploring applied AI, agentic workflows, and data engineering, building on my background in software engineering and data-driven products.
 
 I work as a **multidisciplinary practitioner** focused on:
 
-- **Software Engineering** 👾  
-- **Data Analytics & BI** 📊
+- Software Engineering 👾  
+- Data Analytics & BI 📊
+- Digital Products & Experiences 👨‍💻
 
-🤓 Currently deep into the modern web stack while expanding into data engineering and agentic AI.
+🤓 **Current Learning Focus**
+
+- AI: agentic systems, tool use, MCP, and evaluation
+- Data Engineering: Python, data pipelines, and modern data workflows
+- Software Engineering: reliable integrations, automated testing, and maintainable architecture
 
 <br />
 
