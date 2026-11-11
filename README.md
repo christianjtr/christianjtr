@@ -26,10 +26,10 @@ I work as a **multidisciplinary practitioner** focused on:
 
 ### 🌐 Web & JavaScript Ecosystem (`main focus right now`)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,bun,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,bun,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=13)](https://skillicons.dev)
 > *Also: Zustand, Zod, React TanStack, Playwright, Storybook, and similar technologies*
 
-### ⚙️ Backend & Server-side (`currently leveling up Python 🐍 and interest in Go 🐹`)
+### ⚙️ Backend & Server-side (`currently leveling up Python 🐍 and interested in Go 🐹`)
 
 [![My Skills](https://skillicons.dev/icons?i=python,prisma,nestjs&perline=10)](https://skillicons.dev)
 
