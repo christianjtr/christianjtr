@@ -26,7 +26,7 @@ I work as a **multidisciplinary practitioner** focused on:
 
 ### 🌐 Web & JavaScript Ecosystem (`main focus right now`)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,bun,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,bun,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
 > *Also: Zustand, Zod, React TanStack, Playwright, Storybook, and similar technologies*
 
 ### ⚙️ Backend & Server-side (`currently leveling up Python 🐍 and interest in Go 🐹`)
@@ -39,7 +39,7 @@ I work as a **multidisciplinary practitioner** focused on:
 
 **Tooling and Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis,aws,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis,figma,aws,docker&perline=10)](https://skillicons.dev)
 
 **Other tools**
 - SSIS / SSAS  
