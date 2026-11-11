@@ -6,45 +6,40 @@
   <img align="right" src="https://github.com/christianjtr/christianjtr/blob/main/link-eating-cake.gif" width="300" alt="the-legend-of-zelda-link">
 </picture>
 
-Engineer passionate about building digital products and experiences powered by emerging technologies, connecting business needs with reliable software. 
-
-I'm currently exploring applied AI, agentic workflows, and data engineering, building on my background in software engineering and data-driven products.
+Passionate about building digital products and experiences powered by emerging technologies. 
 
 I work as a **multidisciplinary practitioner** focused on:
 
-- Software Engineering 👾  
-- Data Analytics & BI 📊
-- Digital Products & Experiences 👨‍💻
+- Software Engineering & AI 👾  
+- Data Analytics, BI (ETL/ELT/DWHs) 📊
+- Digital Product Experiences 👨‍💻
 
 🤓 **Current Learning Focus**
 
-- AI: agentic systems, tool use, MCP, and evaluation
-- Data Engineering: Python, data pipelines, and modern data workflows
-- Software Engineering: reliable integrations, automated testing, and maintainable architecture
+- **AI:** Agentic systems, applied AI, tool usage, MCPs, and evaluation (evals)
+- **Data Engineering:** Python, data pipelines, and modern data workflows
+- **Software Engineering:** Reliable integrations, automated testing, and maintainable architectures
 
 <br />
 
 ## Technologies I work with 🔮
 
-### 🌐 Web & JavaScript Ecosystem
-> My main focus right now.
+### 🌐 Web & JavaScript Ecosystem (`main focus right now`)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,bun,typescript,html,css,sass,react,vue,svelte,astro,redux,pinia,apollo,graphql,webpack,styledcomponents,vite,vitest,jest,cypress,nextjs,nuxt,figma&perline=10)](https://skillicons.dev)
+> *Also: Zustand, Zod, React TanStack, Playwright, Storybook, and similar technologies*
 
-<sub>*Also: Zustand, Zod, React TanStack, Playwright, Storybook*</sub>
+### ⚙️ Backend & Server-side (`currently leveling up Python 🐍 and interest in Go 🐹`)
 
-### ⚙️ Backend & Server-side
-> Currently leveling up Python for data engineering & agentic AI (and curious about Go).
+[![My Skills](https://skillicons.dev/icons?i=python,prisma,nestjs&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,prisma,nestjs&perline=10)](https://skillicons.dev)
+> *ORMs: Drizzle, Sequelize, etc.*
 
-<sub>*ORMs: Drizzle, Sequelize, etc.*</sub>
+### 🏗️ Tooling, Databases & Analytics
 
-### 🏗️ Data, Databases & Analytics
+**Tooling and Databases**
 
-**Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis,aws,docker&perline=10)](https://skillicons.dev)
 
 **Other tools**
 - SSIS / SSAS  
