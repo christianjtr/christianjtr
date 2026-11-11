@@ -14,7 +14,7 @@ I work as a **multidisciplinary practitioner** focused on:
 - Data Analytics, BI (ETL/ELT/DWHs) 📊
 - Digital Product Experiences 👨‍💻
 
-🤓 **Current Learning Focus**
+🤓📚💻 **Current Learning Focus**
 
 - **AI:** Agentic systems, applied AI, tool usage, MCPs, and evaluation (evals)
 - **Data Engineering:** Python, data pipelines, and modern data workflows
